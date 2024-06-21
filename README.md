@@ -15,6 +15,8 @@ For e.g. 10 days:
 
 ``` cmd
 ...\GildedRose\bin\Debug\net8.0>  dotnet .\GildedRose.dll @(10)
+or 
+...\GildedRose> dotnet run
 ```
 
 ## Run all the unit tests
